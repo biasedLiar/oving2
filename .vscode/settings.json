@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "functional": "cpp",
+        "list": "cpp",
+        "mutex": "cpp",
+        "thread": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
+}
